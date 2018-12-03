@@ -15,7 +15,7 @@ docker-compose up
 ### How to access the Jupyter Lab
 
 ```bash
-http://localhost:8888/?=<token>
+http://localhost:8888/?token=<token>
 ```
 
 You need a token shows in the teminal.
